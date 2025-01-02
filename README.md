@@ -30,7 +30,7 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Shekar08/Calender
    ```
    ```bash
-   install npm
+   npm install
    ```
    ```bash
    npm start
