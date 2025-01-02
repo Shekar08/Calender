@@ -27,8 +27,24 @@ Ensure you have the following installed on your system:
  ### Installation
 1. Clone the repository and navigate to the `client` folder:
    ```bash
-   git clone https://github.com/your-repo/calendar-app.git
-   cd calendar-app/client
+   git clone https://github.com/Shekar08/Calender
+   ```
+   ```bash
+   install npm
+   ```
+   ```bash
+   npm start
+   ```
+   ```bash
+   cd .\client\
+   ```
+   ```bash
+   npm run dev
+   ```
+   
+   #After that server runs and it enables the application
+   
+   
 
 
 
