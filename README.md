@@ -25,15 +25,8 @@ Ensure you have the following installed on your system:
 - **Node.js**: [Download Node.js](https://nodejs.org)
 - **npm** (comes with Node.js) or **yarn**.
  ### Installation
-1. Clone the repository and navigate to the `client` folder:
-   ```bash
-   git clone https://github.com/Shekar08/Calender
-   ```
    ```bash
    npm install
-   ```
-   ```bash
-   npm start
    ```
    ```bash
    cd .\client\
